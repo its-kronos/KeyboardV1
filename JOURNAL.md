@@ -72,3 +72,36 @@ GOALS
 
 **Session length: 1 hour 30 minutes**
 
+# 6/11/2025
+
+Started this session with sourcing the parts as my goal was from last session
+
+* 100nF - C1525
+* 1 uF - C1848
+* 1x2 pin header - [headers](https://www.aliexpress.us/item/3256804251926023.html?spm=a2g0o.productlist.main.3.6233P5h8P5h85F&algo_pvid=584f0c50-5b9e-4a9e-93a5-931e9de41a05&algo_exp_id=584f0c50-5b9e-4a9e-93a5-931e9de41a05-14&pdp_ext_f=%7B%22order%22%3A%2212%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.44%211.44%21%21%211.44%211.44%21%40210313e917496921766935236e1966%2112000029181612582%21sea%21US%210%21ABX&curPageLogUid=TUy5rYkuikyu&utparam-url=scene%3Asearch%7Cquery_from%3A) (for 1.44)
+* 1k ohm - C85373
+* 15 pF - C1548
+* 27.4 ohm - C31439
+* 10uF - C13585
+* 5.1k - C23186
+
+Yeah it became pretty easy for me to source parts after having done it for two days already, but at least i can now focus on the actual hardware!  
+  
+Finding information about the USB receptacle was pretty difficulty, and when I did it was pretty hard to digest, but I eventually figured it out (I needed a 5.1k ohm resistor pulled down to the cc pins)  
+  
+I was able to finish routing the usbc receptacle as well as the accompanying voltage convertor to the pi2040, but I still have to wire up the data and power lines to the pi before starting my key matrix  
+  
+routing progress:  
+
+![image](https://github.com/user-attachments/assets/c3d5c06c-1677-47a1-b141-a4abd01a31d5)
+
+
+GOALS:  
+  
+* finish routing RPI
+* Finish key grid
+
+**Session length: 1 hour 15 minutes**
+
+
+
