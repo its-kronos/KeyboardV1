@@ -135,8 +135,20 @@ GOALS:
 - Double check the footprints for all components
 - Start working on the PCB layout, start wiring if time permits
 
-
 **session time 4:30**
+
+Alright next session of the same day!
+
+Made a footprint for the usbc receptacle!!! Took way too long to learn how to make my own footprint and match it exactly to the documentation (please add dimensioning kicad I'm begging you)
+
+![image](https://github.com/user-attachments/assets/ba65efef-e31f-47ee-aa45-86a56dd34699)
+
+GOALS:
+- Add and create the custom schematic diagram for the usbc receptacle
+- double check footprints for all components
+
+**session time: 1:30**
+
 
 
 
