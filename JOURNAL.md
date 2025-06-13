@@ -103,5 +103,41 @@ GOALS:
 
 **Session length: 1 hour 15 minutes**
 
+# 6/12/2025
+
+Started off this session with finishing up the wiring for the pi completely, and I eventually realized that I needed a 10K ohm resistor to be able to reset the mcu into BOOTSEL should I need to reflash it.
+
+* 10k ohm - C25744
+* usb protection IC replaced to C7419953 because it has a recommended usb layout in datasheet
+* Switching USBC connector to C165948 because it has a footprint that is easier to recreate
+
+The wiring was pretty simple since this was the second time reading the rp2040 hardware documentation (first time to source parts), so I pretty much just followed that to result in the following:
+
+![image](https://github.com/user-attachments/assets/ede82057-66d4-47e3-ab64-acae1bc2f0ad)  
+
+Afterwards, I worked on my switch matrix, which honestly took more time than I thought it would. Understanding the logic behind a switch matrix compared to just directly wiring distinct switches to a controller took quite a while and gave me a few mistakes when I made my first draft, but eventually I ended up with: 
+
+![Matrix](https://github.com/user-attachments/assets/7c7ef2ac-0d3c-48f5-a162-43a891d877b2)
+
+![image](https://github.com/user-attachments/assets/34949dcc-cf62-4eee-8960-09e636de5497)
+
+After making the matrix, I decided that the keyboard would look better with the encoder on the right side of the macro keys, so I just switched it in the schematic sheet.  
+  
+At this point, my goal was to completely finish what I would have to do in the schematic side of things, so I could start the PCB, and the final step was to assign footprints.  
+Assigning footprints to almost everything was a breeze, and locating which keys needed different sizings was pretty tedious, but when I tried to find a footprint for the USBC connection, I struggled.  
+
+I spent a pretty long time researching to no avail, and eventually decided that my best option would be to just remake it in KiCad (which I decided to save for another time)
+
+  (Note that the other time could be the same day, since these this process took 4.5 continuous hours)
+
+GOALS:
+- Custom footprint for usbc receptacle
+- Double check the footprints for all components
+- Start working on the PCB layout, start wiring if time permits
+
+
+**session time 4:30**
+
+
 
 
