@@ -171,7 +171,7 @@ I decided that labeling every key and diode would make placing parts exponential
 
 
 - triple checked all footprints and parts
-Another big time dump was double checking all the footprints, but I did realize that some of my footprints for the cherry switches (like for the key for "\") weren't the proper "U" sizing.
+Another big time dump was double checking all the footprints, but I did realize that some of my footprints for the cherry switches (like for the key for "\\") weren't the proper "U" sizing.
 
 - started placing switches onto the pcb, but difficulty finding distance between the function keys
 - used: https://keyboard-layout-editor.com/#/ to find distance in a standard layout
@@ -190,7 +190,7 @@ GOALS:
 
 Session Two:
 - Placed all of the other components 
-- replacing 1uF with C52923 for smaller 
+- replacing 1uF with C52923 for smaller footprint
 
 ![image](https://github.com/user-attachments/assets/f6953bd4-07e7-4b4c-b7aa-6c84df0cb109)
 
