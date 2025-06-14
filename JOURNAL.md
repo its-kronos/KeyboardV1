@@ -154,12 +154,18 @@ GOALS:
 - remade pi2040 shape to include all power pins for decoupling
 I was pretty surprised that the base shape for the pi2040 didn't include all the power pins, as this is a pretty important detail since each power pin requires decoupling capacitors.
 However, I easily fixed this by just making the pins visible in the editor.
+![image](https://github.com/user-attachments/assets/64b8f469-3d0b-455e-ab75-aa0c03692444)
+
 
 - made usbc shape
 This was overall pretty easy and didn't require much effort.
+![image](https://github.com/user-attachments/assets/1fc4f043-7767-4354-9997-e80473bebffe)
+
 
 - labeling key names
 I decided that labeling every key and diode would make placing parts exponentially faster (it did), but it was pretty tedious and time-consuming.
+![image](https://github.com/user-attachments/assets/040dc984-7e50-4862-bc84-9f6ab06013ac)
+
 
 - triple checked all footprints and parts
 Another big time dump was double checking all the footprints, but I did realize that some of my footprints for the cherry switches (like for the key for "\") weren't the proper "U" sizing.
@@ -169,6 +175,7 @@ Another big time dump was double checking all the footprints, but I did realize 
 - finished placing every switch
 - finished placing every diode
 This by far was the most annoying part of the process, due to there being about 100 diodes to place. At least watching the switches line up so perfectly was pretty nice to watch.
+![image](https://github.com/user-attachments/assets/2a956f54-ef34-40f7-abc0-6a3ffd0d8eb7)
 
 
 GOALS:
