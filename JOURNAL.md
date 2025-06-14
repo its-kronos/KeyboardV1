@@ -200,7 +200,28 @@ GOALS:
 - Change up the part layout
 - replace data line protection part so I don't have to use vias
 
-Session Length: 1:30 (most of the time was spent on trying to make sure there's enough space, but I severely underestimated the size traces are)
+**Session Length: 1:30** (most of the time was spent on trying to make sure there's enough space, but I severely underestimated the size traces are)
+
+# 6/14/2025
+
+- Created a running list of all the parts used so far
+* placed all of the parts again in a more organized way
+* Tried to do differential pair routing but got confused with the wiring of the ESD protection, wondering if the impedence should be split among both sides.
+* After quite a bit of research I realized that they are internally connected and was able to successfully route it
+* Had some power symbols with 3v3 and 3.3 which made the nets slightly wrong
+* wired all the rows and columns (but not to the chip)
+* wired most (if not all) of the stuff for the chip
+
+![image](https://github.com/user-attachments/assets/3d093d16-02ea-4f19-8420-6c927e3e8a14)
+
+![image](https://github.com/user-attachments/assets/4473ea77-e7a5-404c-a7fb-a54bfa057573)
+
+GOALS:
+- double check the list for all running parts
+- finish the routing and pcb
+
+**time: 3 hours**
+
 
 
 
