@@ -149,6 +149,34 @@ GOALS:
 
 **session time: 1:30**
 
+# 6/13/2025
+
+- remade pi2040 shape to include all power pins for decoupling
+I was pretty surprised that the base shape for the pi2040 didn't include all the power pins, as this is a pretty important detail since each power pin requires decoupling capacitors.
+However, I easily fixed this by just making the pins visible in the editor.
+
+- made usbc shape
+This was overall pretty easy and didn't require much effort.
+
+- labeling key names
+I decided that labeling every key and diode would make placing parts exponentially faster (it did), but it was pretty tedious and time-consuming.
+
+- triple checked all footprints and parts
+Another big time dump was double checking all the footprints, but I did realize that some of my footprints for the cherry switches (like for the key for "\") weren't the proper "U" sizing.
+
+- started placing switches onto the pcb, but difficulty finding distance between the function keys
+- used: https://keyboard-layout-editor.com/#/ to find distance in a standard layout
+- finished placing every switch
+- finished placing every diode
+This by far was the most annoying part of the process, due to there being about 100 diodes to place. At least watching the switches line up so perfectly was pretty nice to watch.
+
+
+GOALS:
+- Place other components for PCB
+- Start routing
+
+**Session time 3:40**
+
 
 
 
