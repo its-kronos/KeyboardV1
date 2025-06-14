@@ -182,7 +182,21 @@ GOALS:
 - Place other components for PCB
 - Start routing
 
-**Session time 3:40**
+**Session time 3:40**  
+
+Session Two:
+- Placed all of the other components 
+- replacing 1uF with C52923 for smaller footprint
+![image](https://github.com/user-attachments/assets/f6953bd4-07e7-4b4c-b7aa-6c84df0cb109)
+
+- Attemped to route but failed horribly with the differential pair
+
+GOALS:
+- Change up the part layout
+- replace data line protection part so I don't have to use vias
+
+Session Length: 1:30 (most of the time was spent on trying to make sure there's enough space, but I severely underestimated the size traces are)
+
 
 
 
