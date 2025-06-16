@@ -222,6 +222,27 @@ GOALS:
 
 **time: 3 hours**
 
+# 6/16/2025
+
+* routed most of the rows and colums as well as rearranging the crystal so it can have a ground plane
+* This was overall pretty easy, but sometimes the routing was a bit difficult, and I had to rearrange things so that the traces could fit properly
+* I also sometimes had to think for a bit of a way to connect two tracks without boxing myself in for the other rows and columns.
+
+![image](https://github.com/user-attachments/assets/9d4bcd47-f721-404b-a438-e6dccb867b57)
+
+![image](https://github.com/user-attachments/assets/6a003983-ddbc-4f4a-8573-5da627815fea)
+
+
+* learned about length matching for the USB port and did a bit of research about it as well as implementing it
+
+![image](https://github.com/user-attachments/assets/5503a496-3a90-476a-9520-5c91d199b264)
+
+
+GOALS:
+- Finish the routing of the PCB
+- Double check the list for all running parts
+
+**TIME: 1 hour 15 minutes**
 
 
 
