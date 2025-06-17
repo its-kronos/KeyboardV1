@@ -244,6 +244,15 @@ GOALS:
 
 **TIME: 1 hour 15 minutes**
 
+Next session:
+
+- Completed the entire routing and ground planes for the PCB, and it looks pretty good in my opinion
+
+![image](https://github.com/user-attachments/assets/429ff7d5-73bf-4d05-8168-fa9c0ca54332)
+
+GOALS:
+- Find and add 3d models for some of the footprints (key switches, ec11, stabs, usbc connector, etc.)
+- Double check running list of parts (i'm too lazy to go back and read every journal entry again, but i'll have to do it before adding 3d models 😭 so I don't position the wrong one)
 
 
 
