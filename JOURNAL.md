@@ -254,7 +254,7 @@ GOALS:
 - Find and add 3d models for some of the footprints (key switches, ec11, stabs, usbc connector, etc.)
 - Double check running list of parts (i'm too lazy to go back and read every journal entry again, but i'll have to do it before adding 3d models 😭 so I don't position the wrong one)
 
-
+**TIME: 1 hour 45 minutes**
 
 
 
