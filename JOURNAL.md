@@ -284,3 +284,24 @@ GOALS:
 ![image](https://github.com/user-attachments/assets/c4147cc7-6c51-4e77-a30d-358028350199)
 
 **time: 1h15m**
+
+# 6/18/2025
+
+* finished rerouting the entire board
+* added courtyard to the usbc connector
+* added some stuff to the silkscreen
+
+![image](https://github.com/user-attachments/assets/5b092a67-7eba-4c54-8caf-365ffd6edfd9)
+
+![image](https://github.com/user-attachments/assets/16c53832-31a3-4fa0-897d-7efc5f8b879a)
+
+* generated the plate with a keyboard layout, and it'd be too big for most household 3d printers, so I'm asking if I'd be allowed to use JLC3DP
+
+![image](https://github.com/user-attachments/assets/b93c3a6e-c6dd-40af-8136-d4e69358de97)
+
+* had to scale down the plate since it was 10x bigger in fusion
+
+![image](https://github.com/user-attachments/assets/fba323ab-72f3-4445-a322-fd802cea63f9)
+
+**time: 3.5 hours**
+
