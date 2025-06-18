@@ -256,5 +256,31 @@ GOALS:
 
 **TIME: 1 hour 45 minutes**
 
+# 6/17/2025
+
+* checked running list and footprints
+* added 3d components
+* wondered if the metal piece between stabs needed holes in the plate, so I researched about that using previous submissions for highway, but this wasn't enough so I researched more
+* Found a youtube video showcases the removal of stabs from a plate, and found that it was mainly just for allowing easy of removal from plate-mount stabs, but since i'm using plate mount, it would be better to include them
+* decided to include hotswap sockets from kailh in the build, and sourcing them here (they are the cheapest among amazon and aliexpress): [amazon hotswap](https://www.amazon.com/DUROCK-Mechanical-Keyboard-Switches-Hot-Swap/dp/B0B4W9YMGM?crid=2Y51HD288RY55&dib=eyJ2IjoiMSJ9.4jfJMBrnUtVfrD9ndIz5Dbi40PLToNJ99BfeLn_g7eB_ABNPZvI_Xcvj5FoM-rEzZp_zvr-HBeE7mUBm-gf11450UfCjV8KXsEJfF1trVdJL-xN9e6SvQqTDC5ccrEOQBiLsyrZ60dv400_XJG4TSNYdgsDcZObeIaZqZ1iRnndZd8XOcbHfX0cLM8CZALM-87yads8R6P6ZWO3rt93f3eIpi1l0SAIedWHgRYZ3cd8.GZ2YWH9UQ05T6cp9X6nW72pieisquQSfZQdeXucPvUs&dib_tag=se&keywords=kailh%2Bhotswap%2Bsockets&qid=1750200309&sprefix=kailh%2Bhotswap%2Bsockets%2Caps%2C105&sr=8-2&th=1)
+* added footprints for hotswap
+* sadly have to reroute pretty much every single row and column due to having slightly different plated through hole sizing (and underside pad/component placement)!
+
+![image](https://github.com/user-attachments/assets/8ebd9eb1-bdd5-4c16-a18f-43938dc450fd)
+
+**TIME: 2 hours**
+
+*session 2*
 
 
+* even after removing all row and column tracks, all the pins for the switches are reversed, so I also have to redo all the diodes, which means that it would most likely be faster to reroute the entire board rather than taking the time to find each individual track connected to a diode and remove it, as well as reposition the diode
+
+![image](https://github.com/user-attachments/assets/f40cd1a3-7823-4c15-a6df-df678aa05e4d)
+
+* was able to route all the columns to eachother (not the pi)
+* moved each diode and connected it to each keyswitch
+* routed up all the stuff near the pi except for the crystal (routing heavily depends on how tightly i can route the columns and rows)
+
+![image](https://github.com/user-attachments/assets/c4147cc7-6c51-4e77-a30d-358028350199)
+
+**time: 1h15m**
