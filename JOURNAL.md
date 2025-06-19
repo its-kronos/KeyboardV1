@@ -305,3 +305,16 @@ GOALS:
 
 **time: 3.5 hours**
 
+*session 2*
+
+* after checking the parts, replacing old stabs with [stabs](https://www.aliexpress.us/item/3256806342416791.html?spm=a2g0o.productlist.main.1.1f9130bdR4lI3e&algo_pvid=cf999406-4910-42b3-8749-b1a43b4eea55&algo_exp_id=cf999406-4910-42b3-8749-b1a43b4eea55-0&pdp_ext_f=%7B%22order%22%3A%22901%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%217.67%216.64%21%21%217.67%216.64%21%402103146f17502672974193867e9e69%2112000037543723482%21sea%21US%210%21ABX&curPageLogUid=G5Umy2OhrlOa&utparam-url=scene%3Asearch%7Cquery_from%3A) because the old ones had pictures that didn't look like plate mount, but in the product here it clearly says plate mounted
+* Did some research on whether the pcb would need to be supported or not, but I decided it would be for the best if they were and found standoffs i could use [standoffs](https://www.aliexpress.us/item/3256807945933515.html?spm=a2g0o.productlist.main.1.707337b6g0g4X3&algo_pvid=264d64cd-d181-40d5-8715-bf0f00bebe19&algo_exp_id=264d64cd-d181-40d5-8715-bf0f00bebe19-0&pdp_ext_f=%7B%22order%22%3A%22625%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.93%211.66%21%21%211.93%211.66%21%40210318ec17502700244453566eedb7%2112000043917409280%21sea%21US%210%21ABX&curPageLogUid=U4VRdFXwYqE0&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification)
+* resized edge.cuts and adding mounting holes, and this part took way too long because theres no tool for distancing like there is in many cad programs, so I had to align everything perfect with the grids, which was pretty annoying (also had to reroute and reposition the USBC receptacle due to board resizing)
+
+![image](https://github.com/user-attachments/assets/8c771ce3-d565-4801-8124-81c35a15bb03)
+
+* Setup wakatime for kicad and fusion
+
+**time 1h45m**
+
+
