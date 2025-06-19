@@ -317,4 +317,20 @@ GOALS:
 
 **time 1h45m**
 
+# 6/19/2025
+
+* i'm pretty new to cad so making the case will take quite a bit
+* finished the bottom part of the case with holes for screws
+
+![image](https://github.com/user-attachments/assets/f029cd76-f0ca-4128-8e8e-adba002e5771)
+
+* added bigger holes at the bottom for the head, with the following sourced M3 screws: [screws](https://www.aliexpress.us/item/3256808318392916.html?spm=a2g0o.productlist.main.9.b3bd48ab2IfbUm&algo_pvid=13938592-212d-450d-895e-c381feab57e0&algo_exp_id=13938592-212d-450d-895e-c381feab57e0-8&pdp_ext_f=%7B%22order%22%3A%22164%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.58%211.27%21%21%211.58%211.27%21%402101effb17503475022117786e4c80%2112000045477825083%21sea%21US%210%21ABX&curPageLogUid=zDcpBpa3QEWD&utparam-url=scene%3Asearch%7Cquery_from%3A)
+
+![image](https://github.com/user-attachments/assets/dc3d22d6-1e64-4817-af40-dd03e69e3008)
+
+* will be adding the hole for the usbc connector last, so i can align everything in the assembly and put the cutout accurately
+
+**time: 45m**
+
+
 
