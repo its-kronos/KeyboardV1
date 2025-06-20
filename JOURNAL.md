@@ -355,6 +355,20 @@ GOALS:
 
 **time 3h15m**
 
+# 6/20/2025
+
+* redoing all the keycaps because it is the only way for me to unlink all of them so i can apply the custom colors
+* found different keycaps for all the u sizes after some searching
+* the new models for the keycaps were all scaled up and meshes, so i decided to find other ones since i couldn't convert them prismatically (fusion free version sob)
+
+
+![image](https://github.com/user-attachments/assets/99e01caf-16ad-4aff-be17-12c80b99accd)
+
+
+* after doing some more digging i found different keycap models (we love reddit) which had everything for each row with the [link](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) and this included keycaps for different rows, so I decided to restart again for the next session
+
+
+**time:1h45m** (mainly because I spent so much time restarting and searching)
 
 
 
