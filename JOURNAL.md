@@ -332,5 +332,29 @@ GOALS:
 
 **time: 45m**
 
+* finished top part of the case, except for the spaces between escape and other keys, arrow keys, etc.
+* I'll add that part after finishing up with the assembly
+
+![image](https://github.com/user-attachments/assets/139ecbe4-8932-4bc3-9784-068b7946ec22)
+
+
+* full assembly before keycaps, stabilizers, colouring, and polishing
+
+![image](https://github.com/user-attachments/assets/a8ce2b20-449b-45a9-8aa4-b216989ab48f)
+
+
+* couldn't find a stabilizer model i could use, so i'm going without it
+* added all keycaps, but this took way too long since i was initially moving and copying them one by one before I learned I could use rectangular patterns
+
+![image](https://github.com/user-attachments/assets/e3dadd19-bf5f-4815-a6b2-e75db6992d5c)
+
+* polished up the top part of the case so that the gaps are filled
+
+![image](https://github.com/user-attachments/assets/9ec47aee-a5ee-41a9-b643-846d041a359b)
+
+
+**time 3h15m**
+
+
 
 
