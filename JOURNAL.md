@@ -370,5 +370,13 @@ GOALS:
 
 **time:1h45m** (mainly because I spent so much time restarting and searching)
 
+* turns out all the files i found before were just mesh-based too, which wasn't really helpful
+* learned that all STL files are meshed based, so I will download the STEP file from the github repo instead
+* Used the step file instead and it worked so much better, and i was able to get a lot of keys placed down, and the keyboard is starting to look really good
+
+![image](https://github.com/user-attachments/assets/56596862-00d4-4fda-8ef8-40cfcbefd928)
+
+**time: 45m**
+
 
 
