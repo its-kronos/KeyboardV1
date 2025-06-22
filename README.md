@@ -1,5 +1,52 @@
 # MacroBoard
 
+![Assembly](https://github.com/user-attachments/assets/f124abb1-97a4-4ffe-a3d5-4d31c968749f)
+
+# What is it?  
+  
+- The MacroBoard is an extension of a much smaller "macropad" featuring a **full TKL layout** with a **rotary encoder** for volume and a whopping total of **22 macro keys** (10 macrokeys physically and 12 more due to the fn keys being on another layer).
+- Worried about the amount of power it will take? No need to worry! The MacroBoard has a **Pi Pico** as its brain, which is pretty efficient on energy.
+- Dislike the microUSB connector on the Pi Pico? Again, don't worry! Through the use of a **USB Type-C** breakout board, most of the cables that you already use should work, as the keyboard has the necessary 5.1K ohm resistors to allow for type-C to type-C communication
+
+# Why did I make it?  
+  
+- One of my first hardware projects in my life was a macropad, and since I didn't have that much experience, I thought that a keyboard would be an appropriate step up in difficulty while still challenging myself, especially because I decided to use a **bare rp2040 chip** and had to include everything that it needs, including differential pair routing with 90 ohm impedence (for the USB-C connection).
+- For the form-factor, I decided to add macrokeys as having additional components like a macroboard on my desk would feel like clutter, so incorporating these keys into the keyboard itself would fix this issue
+- Finally, I just never used a mechanical keyboard before, and I honestly just wanted to know how it felt compared to the laptop keyboards and the ones based on rubber.
+
+![image](https://github.com/user-attachments/assets/01ac7471-7d56-493f-b7d0-71074eca8d0d)
+
+# Challenges  
+  
+- There were two points in this project that were quite soul-crushing and made me actually consider if I should just stop trying to complete the project, which is why I want to highlight them here.
+
+- Initially, I decided that I would forgo hotswap switches for the keyboard, but after finishing routing the PCB, I chose that it would probably be better if I decided to include them. When I changed the footprints from Cherry MX to Kailh hotswap switches, there were over 1300 errors in the DRC.
+- This meant that I would have to completely restart the wiring, which was pretty difficult for me to accept, but luckily, it took around 25% of the time it took before with my gained knowledge, proving to me how far I have come in this month alone.
+
+![image](https://github.com/user-attachments/assets/5a0a83c7-157a-446c-b68d-270c267d9cdb)
+
+- The next challenge happened right at the end of my project, or as I was almost ready to be done. When I uploaded the PCB gerber files to JLCPCB and completed the parts selection, I found out that no matter what I did, the bare board would come out to be over 1.5 KG, making it ineligible for Global Direct Shipping.
+- This meant that the shipping for just the PCB would come out to be about 40 dollars with the cheapest option, completely breaking the $150 budget I had for this project.
+- I asked around on the Hackclub Slack for some help, and I there seemed to be nothing that I could really do.
+- As a last resort, I DMed [Ayo](https://github.com/TheEternalComrade) (you should check out his Github), who I had seen complete a keyboard. After discussing about ways to optimize the price, he brought up the idea of hand-wiring a keyboard, which was something I had never thought of before.
+- I initially still felt discouraged, but with more conversation, I slowly became more confident in myself and my abilities. Now, rejuvinated, I updated the models to be able to work without a PCB and quickly finished my project
+
+![image](https://github.com/user-attachments/assets/3df5f382-6911-48d2-8cea-a1f929f3c50d)
+
+# PCB
+
+- As previously stated, I will be handwiring this keyboard, but here is my wiring diagram for the keyboard and the PCB that I did design (which ended up being too expensive)
+
+![image](https://github.com/user-attachments/assets/98658bc5-70b2-4d37-88aa-5f862f747b79)
+![image](https://github.com/user-attachments/assets/264d5fc6-a16b-445f-90b8-87f31055b048)
+![image](https://github.com/user-attachments/assets/400705db-2a51-4190-bb17-b368dc20e9ef)
+
+
+# CAD
+- This took me a pretty long time since I'm relatively new to designing things, but I feel that it turned out really well.
+
+![image](https://github.com/user-attachments/assets/5cf35a90-53ec-46a1-8c38-575bb4d13468)
+
 
 # BOM
 
