@@ -391,6 +391,26 @@ GOALS:
 
 **time: 1h30m** (excluding some time about asking details to improve my case)
 
+* sourced some gorilla superglue gel I would use for the standoffs in the plastic after doing some research about which glue works well with PLA
+* started splitting all the prints so they could be printed with printing legion
+
+![image](https://github.com/user-attachments/assets/063d32d5-26c1-44ad-9836-c4277dfbb908)
+
+
+* decided not to split the plate because splitting it would make it pretty difficult to print secure during shipping, so i'll probably use JLC3DP for this one part
+* discovered that JLC3DP PLA print has to have a minimum of 1cm height and their capabilities don't support 1.5mm height, but after some research I discovered that many people use FR4 as material for their plates, so I did a big brain move and exported the plate sketch as a DXF and imported it into kicad and just exported as gerber!
+
+![image](https://github.com/user-attachments/assets/08836b28-a7f4-4a25-8622-d8d2d5e98e23)
+
+
+
+* turns out that JLCPCB is pretty expensive for getting plates, so instead I decided to just get it via a resin print, which can support 1.5mm thick prints
+* replacing 1k ohm with C11702, since it's a basic part
+* turns out that no matter what I do the weight will be over 1.5 KG for the board alone, so I have to pay about 40 dollars shipping to the US, which means that the rest of the board is unfeasable to design
+* i will finish a draft of the code and create a BOM, but that's about it since I don't have the means to pay the exorbitant amount of money required
+
+
+**time: 30m**
 
 
 
