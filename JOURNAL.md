@@ -419,6 +419,10 @@ GOALS:
 # 6/22/2025
 * created a bom for the over-budget build
 * created a draft of code to use on the keyboard
+
+![image](https://github.com/user-attachments/assets/f2960a89-cc10-4cb9-a7f8-a8cae8235b3a)
+
+
 * sourced parts that would be needed for hand-wired keyboard
 * edited case to support a USBC breakout board instead of the over-priced PCB (lowered the hole)
 * editing plate to support thicker printing and better support so I can use printing legion instead
