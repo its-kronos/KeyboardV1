@@ -378,5 +378,19 @@ GOALS:
 
 **time: 45m**
 
+# 6/21/2025
+
+* finished putting all the keys and colouring, and imported my rotary encoder cap from another project (hackpad), but didn't know which ec11 rotary encoder type comes with hackpad, due to there being so many different variations, so I asked which specific type it is and tried to do some research
+* the type is the ec11e 
+* since the 3d model on the pcb in the assembly is not an ec11e (and since I couldn't find an ec11e model, just one for a general ec11 encoder) i had to carefully go by the measurements on the datasheet to design my cap
+* spent quite a long time designing the hole for the USBC connector, making it pretty tight with some clearance just incase
+
+![image](https://github.com/user-attachments/assets/625d0176-20c8-4747-a23c-d5aca68acc9e)
+
+![image](https://github.com/user-attachments/assets/d2b17433-38c8-4fca-977b-42a6999e0e49)
+
+**time: 1h30m** (excluding some time about asking details to improve my case)
+
+
 
 
