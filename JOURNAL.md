@@ -414,3 +414,7 @@ GOALS:
 
 
 
+| Ok thanks to some ideas of @TheEternalComrade (fellow Hackclub member), I decided that after finishing a draft of the code and a BOM for this expensive version of the keyboard, I will use the grant to aquire the materials needed to handsolder the keyboard instead of paying 100 dollars for a PCB including shipping
+
+
+
