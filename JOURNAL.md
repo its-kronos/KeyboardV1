@@ -416,5 +416,18 @@ GOALS:
 
 | Ok thanks to some ideas of @TheEternalComrade (fellow Hackclub member), I decided that after finishing a draft of the code and a BOM for this expensive version of the keyboard, I will use the grant to aquire the materials needed to handsolder the keyboard instead of paying 100 dollars for a PCB including shipping
 
+# 6/22/2025
+* created a bom for the over-budget build
+* created a draft of code to use on the keyboard
+* sourced parts that would be needed for hand-wired keyboard
+* edited case to support a USBC breakout board instead of the over-priced PCB (lowered the hole)
+* editing plate to support thicker printing and better support so I can use printing legion instead
+* editing the plate is taking way too long due to fusion taking like 30 seconds to render a single constraint and up to two minutes if I misclick
+
+![image](https://github.com/user-attachments/assets/70f267a2-cb31-47b4-b27e-39fc30ad2614)
+
+
+**TIME: 2 HOURS**
+
 
 
