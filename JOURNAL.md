@@ -1,10 +1,11 @@
 # Journal
 
 # Information
-- Title: "KeyboardV1"
-- Author: An. D./its_kronos
-- Description: A mechanical keyboard (*change later to be more specific*)
+- Title: "MacroBoard"
+- Author: An. D. (its_kronos)
+- Description: The MacroBoard is an extension of a much smaller "macropad" featuring a **full TKL layout** with a **rotary encoder** for volume and a whopping total of **22 macro keys** (10 macrokeys physically and 12 more due to the fn keys being on another layer).
 - Creation Date: 6/8/2025
+- Total Time (before building):39 hours 10 minutes 
 
 # 6/8/2025
 I started the general planning for the design criteria and also started sourcing some of the parts needed to create the keyboard. This took a lot longer than I expected, and I didn't realise how much actually had to go to making a full-sized keyboard, even after making a macropad before this.  
@@ -430,8 +431,20 @@ GOALS:
 
 ![image](https://github.com/user-attachments/assets/70f267a2-cb31-47b4-b27e-39fc30ad2614)
 
+**time: 2 hours**
 
-**TIME: 2 HOURS**
+* found a cherry MX plate hole to EC11 rotary encoder by @Coloneljesus_13723 on printables.com, which would allow me to glue a rotary encoder to it and attach it securely to the plate without a PCB (pretty fire)
+* finished redesigning the plate to be thicker to allow for more security and smaller bed size required for printing (I wish fusion ran faster)
+
+![image](https://github.com/user-attachments/assets/f723d242-7f45-4eb2-b6b4-435d99b78fdd)
+
+
+
+* made bom and added it to readme
+* Created a readme and added almost everything that I need to
+
+
+**time: 2h30m**
 
 
 
