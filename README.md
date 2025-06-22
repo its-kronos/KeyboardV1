@@ -51,7 +51,7 @@
 
 # BOM
 
-|VENDER    |ITEM         |PRICE                                         |SHIPPING|PCS              |COUNT|COMMENT                                                 |COMMENT          |
+|VENDER    |ITEM         |PRICE (USD)                                         |SHIPPING|PCS              |COUNT|COMMENT                                                 |COMMENT          |
 |----------|-------------|----------------------------------------------|--------|-----------------|-----|--------------------------------------------------------|-----------------|
 |          |             |                                              |        |                 |     |                                                        |                 |
 |ALIEXPRESS|             |                                              |        |                 |     |                                                        |                 |
