@@ -7,6 +7,7 @@
 - The MacroBoard is an extension of a much smaller "macropad" featuring a **full TKL layout** with a **rotary encoder** for volume and a whopping total of **22 macro keys** (10 macrokeys physically and 12 more due to the fn keys being on another layer).
 - Worried about the amount of power it will take? No need to worry! The MacroBoard has a **Pi Pico** as its brain, which is pretty efficient on energy.
 - Dislike the microUSB connector on the Pi Pico? Again, don't worry! Through the use of a **USB Type-C** breakout board, most of the cables that you already use should work, as the keyboard has the necessary 5.1K ohm resistors to allow for type-C to type-C communication
+- Case looking too big? Every model is split in half to allow for printing on a consumer-sized printer.
 
 # Why did I make it?  
   
