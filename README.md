@@ -34,6 +34,10 @@
 
 ![image](https://github.com/user-attachments/assets/3df5f382-6911-48d2-8cea-a1f929f3c50d)
 
+# Credits
+- Credit to [@Coloneljesus_13723 on printables.com](https://www.printables.com/model/680438-switch-to-encoder-plate-adapter/files) for a cherry MX plate hole to EC11 rotary encoder
+- [Ayo](https://github.com/TheEternalComrade) for helping me throughout the latter part of the project
+
 # PCB
 
 - As previously stated, I will be handwiring this keyboard, but here is my wiring diagram for the keyboard and the PCB that I did design (which ended up being too expensive)
