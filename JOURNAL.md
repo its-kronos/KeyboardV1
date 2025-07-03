@@ -5,7 +5,7 @@
 - Author: An. D. (its_kronos)
 - Description: The MacroBoard is an extension of a much smaller "macropad" featuring a **full TKL layout** with a **rotary encoder** for volume and a whopping total of **22 macro keys** (10 macrokeys physically and 12 more due to the fn keys being on another layer).
 - Creation Date: 6/8/2025
-- Total Time (before building):39 hours 10 minutes 
+- Total Time (before building):39 hours 40 minutes 
 
 # 6/8/2025
 I started the general planning for the design criteria and also started sourcing some of the parts needed to create the keyboard. This took a lot longer than I expected, and I didn't realise how much actually had to go to making a full-sized keyboard, even after making a macropad before this.  
@@ -446,5 +446,9 @@ GOALS:
 
 **time: 2h30m**
 
+# 7/3/2025
 
+- Just remade the case a bit (nothing major, small number changes) to be more suitable for 3d printing
+
+**TIME: 30m**
 
